@@ -1,0 +1,55 @@
+body{
+
+font-family: 'Black Ops One', cursive;
+font-size: 50px;
+text-align: center;
+color: blue;
+background: url("../images/background.jpg");
+background-repeat:no-repeat; 
+background-size:cover;
+
+
+}
+
+.name{
+	color: #42f4e5
+}
+
+.arrowleft{
+	float:left;
+	padding-top: 20%;
+	padding-left: 5%;
+
+
+}
+
+.arrowright{
+	float:right;
+	padding-top:20%;
+	padding-right: 5%;
+}
+
+
+#picWindow{
+	padding-right:5%;
+	padding-left:5%;
+}
+
+#picWindow img{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top:auto;
+}
+
+.arrowleft:hover{
+	padding-top: 20%;
+	padding-left: 5%;
+	opacity: 0.5;
+}
+
+.arrowright:hover{
+	padding-top: 20%;
+	padding-left: 5%;
+	opacity: 0.5;
+}
